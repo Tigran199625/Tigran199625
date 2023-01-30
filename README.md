@@ -16,6 +16,6 @@ Here is the list to the games made by me:
 
 <br />
 
->  [Cube Way] (https://github.com/Tigran199625/Cube_Way)
+>  [Cube Way](https://github.com/Tigran199625/Cube_Way)
 >  
->  [The Adventures of Redy] (https://github.com/Tigran199625/The_Adventures_of_Redy)
+>  [The Adventures of Redy](https://github.com/Tigran199625/The_Adventures_of_Redy)
