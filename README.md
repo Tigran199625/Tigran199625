@@ -22,4 +22,4 @@ Here is the list to the games made by me:
 >  [The Adventures of Redy](https://github.com/Tigran199625/The_Adventures_of_Redy)
 >  
 >  [To The Top](https://tigran-avagyan.itch.io/to-the-top) 
-   My first game, on "itch.io". Hope you enjoy the game :)
+   [My first game, on "itch.io". Hope you enjoy the game :) ]
