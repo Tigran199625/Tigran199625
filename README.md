@@ -19,7 +19,3 @@ Here is the list to the games made by me:
 >  
 >  [To The Top](https://tigran-avagyan.itch.io/to-the-top) 
    [My first game, on "itch.io". Hope you enjoy the game :) ]
-
-<a href="https://www.linkedin.com/in/tigran-avagyan-483864236/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
