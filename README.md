@@ -23,3 +23,6 @@ Here is the list to the games made by me:
 >  
 >  [To The Top](https://tigran-avagyan.itch.io/to-the-top) 
    [My first game, on "itch.io". Hope you enjoy the game :) ]
+>
+> [Snake 2D](https://github.com/Tigran199625/Snake_2D) 
+  [This game is created using the Code Monkey's guide (YouTube channel)]
